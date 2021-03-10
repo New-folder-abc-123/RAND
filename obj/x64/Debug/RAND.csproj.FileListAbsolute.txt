@@ -1,0 +1,43 @@
+C:\New folder\New folder\New folder\WindowsFormsApp1\Apps\RAND\RAND\RAND\bin\x64\Debug\RAND.exe.config
+C:\New folder\New folder\New folder\WindowsFormsApp1\Apps\RAND\RAND\RAND\bin\x64\Debug\RAND.exe
+C:\New folder\New folder\New folder\WindowsFormsApp1\Apps\RAND\RAND\RAND\bin\x64\Debug\RAND.pdb
+C:\New folder\New folder\New folder\WindowsFormsApp1\Apps\RAND\RAND\RAND\obj\x64\Debug\RAND.Properties.Resources.resources
+C:\New folder\New folder\New folder\WindowsFormsApp1\Apps\RAND\RAND\RAND\obj\x64\Debug\RAND.csproj.GenerateResource.cache
+C:\New folder\New folder\New folder\WindowsFormsApp1\Apps\RAND\RAND\RAND\obj\x64\Debug\RAND.exe
+C:\New folder\New folder\New folder\WindowsFormsApp1\Apps\RAND\RAND\RAND\obj\x64\Debug\RAND.pdb
+C:\New folder\New folder\New folder\WindowsFormsApp1\Apps\RAND\RAND\RAND\obj\x64\Debug\RAND.Form1.resources
+C:\Users\Admin\source\repos\RAND\RAND\RAND\bin\x64\Debug\RAND.exe.config
+C:\Users\Admin\source\repos\RAND\RAND\RAND\bin\x64\Debug\RAND.exe
+C:\Users\Admin\source\repos\RAND\RAND\RAND\bin\x64\Debug\RAND.pdb
+C:\Users\Admin\source\repos\RAND\RAND\RAND\obj\x64\Debug\RAND.Form1.resources
+C:\Users\Admin\source\repos\RAND\RAND\RAND\obj\x64\Debug\RAND.Properties.Resources.resources
+C:\Users\Admin\source\repos\RAND\RAND\RAND\obj\x64\Debug\RAND.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\RAND\RAND\RAND\obj\x64\Debug\RAND.exe
+C:\Users\Admin\source\repos\RAND\RAND\RAND\obj\x64\Debug\RAND.pdb
+C:\sources\RAND\RAND\bin\x64\Debug\RAND.exe.config
+C:\sources\RAND\RAND\bin\x64\Debug\RAND.exe
+C:\sources\RAND\RAND\bin\x64\Debug\RAND.pdb
+C:\sources\RAND\RAND\obj\x64\Debug\RAND.csprojAssemblyReference.cache
+C:\sources\RAND\RAND\obj\x64\Debug\RAND.Form1.resources
+C:\sources\RAND\RAND\obj\x64\Debug\RAND.Properties.Resources.resources
+C:\sources\RAND\RAND\obj\x64\Debug\RAND.csproj.GenerateResource.cache
+C:\sources\RAND\RAND\obj\x64\Debug\RAND.exe
+C:\sources\RAND\RAND\obj\x64\Debug\RAND.pdb
+C:\Apps\RAND\RAND\bin\x64\Debug\RAND.exe.config
+C:\Apps\RAND\RAND\bin\x64\Debug\RAND.exe
+C:\Apps\RAND\RAND\bin\x64\Debug\RAND.pdb
+C:\Apps\RAND\RAND\obj\x64\Debug\RAND.csprojAssemblyReference.cache
+C:\Apps\RAND\RAND\obj\x64\Debug\RAND.Form1.resources
+C:\Apps\RAND\RAND\obj\x64\Debug\RAND.Properties.Resources.resources
+C:\Apps\RAND\RAND\obj\x64\Debug\RAND.csproj.GenerateResource.cache
+C:\Apps\RAND\RAND\obj\x64\Debug\RAND.exe
+C:\Apps\RAND\RAND\obj\x64\Debug\RAND.pdb
+C:\Users\Admin\Downloads\New folder\New folder\My Applications\RAND\RAND\bin\x64\Debug\RAND.exe.config
+C:\Users\Admin\Downloads\New folder\New folder\My Applications\RAND\RAND\bin\x64\Debug\RAND.exe
+C:\Users\Admin\Downloads\New folder\New folder\My Applications\RAND\RAND\bin\x64\Debug\RAND.pdb
+C:\Users\Admin\Downloads\New folder\New folder\My Applications\RAND\RAND\obj\x64\Debug\RAND.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\New folder\New folder\My Applications\RAND\RAND\obj\x64\Debug\RAND.Form1.resources
+C:\Users\Admin\Downloads\New folder\New folder\My Applications\RAND\RAND\obj\x64\Debug\RAND.Properties.Resources.resources
+C:\Users\Admin\Downloads\New folder\New folder\My Applications\RAND\RAND\obj\x64\Debug\RAND.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\New folder\New folder\My Applications\RAND\RAND\obj\x64\Debug\RAND.exe
+C:\Users\Admin\Downloads\New folder\New folder\My Applications\RAND\RAND\obj\x64\Debug\RAND.pdb
